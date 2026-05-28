@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="100%" height="100%" fill="#e6f0ff"/>
+  <g transform="translate(80,120)">
+    <rect x="0" y="0" width="440" height="560" rx="20" fill="#fff" stroke="#cfe0ff"/>
+    <circle cx="220" cy="180" r="80" fill="#cfe0ff"/>
+    <rect x="80" y="300" width="280" height="16" rx="8" fill="#cfe0ff"/>
+    <rect x="60" y="340" width="320" height="14" rx="7" fill="#e6f5ff"/>
+    <rect x="60" y="370" width="320" height="14" rx="7" fill="#e6f5ff"/>
+  </g>
+  <text x="620" y="220" font-family="Segoe UI, Roboto, Arial" font-size="48" fill="#2b3d63">About image placeholder</text>
+</svg>

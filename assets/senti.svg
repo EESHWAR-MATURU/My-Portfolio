@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#fff8e6"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="360" height="420" rx="16" fill="#fff" stroke="#ffe9b8"/>
+    <rect x="24" y="24" width="312" height="160" rx="8" fill="#ffe9b8"/>
+    <rect x="24" y="200" width="312" height="16" rx="8" fill="#fff1d1"/>
+  </g>
+  <text x="420" y="260" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#7a5b00">Sentiment analysis placeholder</text>
+</svg>

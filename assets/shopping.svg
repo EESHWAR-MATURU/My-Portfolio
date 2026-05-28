@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="100%" height="100%" fill="#fff7f7"/>
+  <g transform="translate(40,40)">
+    <rect x="0" y="0" width="360" height="420" rx="16" fill="#fff" stroke="#ffdede"/>
+    <rect x="80" y="80" width="200" height="120" rx="8" fill="#ffdede"/>
+    <rect x="60" y="220" width="320" height="16" rx="8" fill="#fff0f0"/>
+  </g>
+  <text x="420" y="260" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#b33a3a">Shopping app placeholder</text>
+</svg>
