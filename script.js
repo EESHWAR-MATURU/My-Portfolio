@@ -227,10 +227,10 @@ function initTyping() {
   if (!el) return;
 
   const WORDS = [
-    "Front-end Developer",
-    "UI / UX Enthusiast",
-    "Learning Full-Stack",
-    "AI & ML Explorer",
+    "Angular Developer",
+    "Frontend Specialist",
+    "Full-Stack Learner",
+    "Tech Enthusiast",
   ];
   const TYPE_SPEED = 85;
   const ERASE_SPEED = 42;
@@ -832,12 +832,12 @@ function initBackToTop() {
 function autoTagRevealElements() {
   const selectors = [
     ".project-card",
-    ".skill-row",
+    ".skill-card",
     ".about-card",
     ".about-skills",
+    ".resume-content",
     ".contact-card",
     ".contact-info",
-    ".resume-card",
     ".section-title",
   ];
   selectors.forEach((sel) => {
@@ -868,7 +868,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initScrollSpy();
   initTyping();
   initReveal();
-  initSkillBars();
   initModal();
   initContactForm();
   initSmoothScroll();
